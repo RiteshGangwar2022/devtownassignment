@@ -1,3 +1,6 @@
+![Screenshot (1835)](https://github.com/RiteshGangwar2022/devtownassignment/assets/116111183/35baf850-122e-40b6-b671-125cb3e18fc5)
+![Screenshot (1834)](https://github.com/RiteshGangwar2022/devtownassignment/assets/116111183/4334e5fb-8e38-4ec0-9e60-a0ac06abdfae)
+![Screenshot (1833)](https://github.com/RiteshGangwar2022/devtownassignment/assets/116111183/5b4ba7c1-28d9-48d4-88d9-9e0ce94d7e7e)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
